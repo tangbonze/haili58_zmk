@@ -31,6 +31,7 @@
 
 &left_encoder {
     status = "okay";
+};
 
 &pinctrl {
     i2c0_default: i2c0_default {
@@ -73,4 +74,4 @@
     };
 };
 
-};
+
